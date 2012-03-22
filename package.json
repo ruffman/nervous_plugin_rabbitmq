@@ -1,0 +1,37 @@
+{
+  "name": "nervous_plugin_rabbitmq",
+  "preferGlobal": false,
+  "version": "0.0.1",
+  "author": {
+    "name": "Erik Rothman",
+    "email": "erik.rothman@recordedfuture.com"
+  },
+  "description": "a simple RabbitMQ plugin for Nervous",
+  "contributors": [
+  ],
+  "main": "./index.js",
+  "keywords": [
+    "nervous",
+    "monitoring",
+    "plugable",
+    "plugin",
+    "rabbitmq"
+  ],
+  "dependencies": {},
+  "noAnalyze": true,
+  "devDependencies": {},
+  "bundleDependencies": [],
+  "license": "",
+  "engine": {
+    "node": ">=0.6"
+  },
+  "_id": "nervous_plugin_rabbitmq@0.0.1",
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "_engineSupported": true,
+  "_npmVersion": "1.1.9",
+  "_nodeVersion": "v0.6.13",
+  "_defaultsLoaded": true
+}

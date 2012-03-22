@@ -1,0 +1,7 @@
+{
+    "host" : "localhost",
+    "port" : "55672",
+    "interval" : "1000",
+    "auth_usr":"guest",
+    "auth_pwd":"guest"
+}
